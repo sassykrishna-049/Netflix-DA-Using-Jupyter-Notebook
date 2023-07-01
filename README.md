@@ -3,6 +3,8 @@ User Based Movie Recommendation System based on Collaborative Filter
 
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021?resource=download)
 
+[Youtube Link](https://www.youtube.com/watch?v=b7Kd0fLwgO4)
+
 The commands that we used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
